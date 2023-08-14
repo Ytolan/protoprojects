@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "Big Corporation",
+        "NumberOfEmployees" : 1000,
+        "ceo" : "Blackwater",
+        "rating" : "3.6"
+    },
+    {
+        "name" : "Stasis",
+        "numberOfEmployees" : 7,
+        "ceo" : "DeMarco",
+        "rating" : 4.3
+    }
+]
